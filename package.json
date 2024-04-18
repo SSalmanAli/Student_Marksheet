@@ -1,0 +1,18 @@
+{
+  "name": "student_report",
+  "version": "1.0.0",
+  "description": "A program which inputs student name , subject marks and makes a report (made with TS | Node.js)",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Syed Salman Ali",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.19"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
